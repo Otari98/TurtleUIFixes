@@ -28,7 +28,8 @@ Collection of user interface bug fixes and small UI improvements for Turtle WoW.
  - Frames staying movable/lock button not working (![bug report](https://turtle-wow.org/bug-report?id=8562))
 ### Lookinf For Group Tool
  - Constant scrolling to the top (![bug report](https://turtle-wow.org/bug-report?id=10553))
-
+### World Map
+ - Eastern Kingdoms not having check mark in dropdown menu
 
 
 ## Other things that are not bug fixes per se
