@@ -36,3 +36,6 @@ Collection of user interface bug fixes and small UI improvements for Turtle WoW.
  - Chat scrolling with mouse wheel
  - Option to enable system messages in tabs other than General
  - If "show status bar text" option is off, health numbers will appear on mouseover rather than never
+
+## Installation
+Place `patch-U` in your game's `Data` folder. If you use Turtle Launcher you will need to enable this patch inside it.
