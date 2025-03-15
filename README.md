@@ -5,9 +5,9 @@ Collection of user interface bug fixes for Turtle WoW.
 ### Tooltips
  - Set bonuses not showing correctly on transmogrified items
 ### Guild Bank UI
- - Error while opening log tab (![bug report](https://turtle-wow.org/bug-report?id=11707))
+ - Error while opening log tab ![bug report](https://turtle-wow.org/bug-report?id=11707)
  - Error while standing near gbank prior to opening it once
- - Memory leak while hovering over bag/equipment items after interacting with gbank (![bug report](https://turtle-wow.org/bug-report?id=11709))
+ - Memory leak while hovering over bag/equipment items after interacting with gbank ![bug report](https://turtle-wow.org/bug-report?id=11709)
  - Money depositing by pressing Enter
  - "Available amount:" text label overlaping gold amount
  - Frame not closing if player doesn't have target or target is not guild bank npc
@@ -16,9 +16,9 @@ Collection of user interface bug fixes for Turtle WoW.
 ### Transmog UI
  - Tabard texture
  - Frame strata and interaction with pushable frames
- - Experimental fix/workaround for slots showing blank pages ![bug report](https://turtle-wow.org/bug-report?id=9414)
+ - Experimental fix/workaround for slots showing blank pages ![bug report](https://turtle-wow.org/bug-report?id=9414) (need feedback on this)
 ### Chat
- - Hardcore chat ignoring player chosen filters
+ - Hardcore chat reenabling itself
  - Not selecting general tab on login/reload
 ### DressUp Frame
  - Tabard texture
@@ -28,3 +28,9 @@ Collection of user interface bug fixes for Turtle WoW.
  - Frames staying movable/lock button not working (![bug report](https://turtle-wow.org/bug-report?id=8562))
 ### Lookinf For Group Tool
  - Constant scrolling to the top (![bug report](https://turtle-wow.org/bug-report?id=10553))
+
+## Small improvements that are not bug fixes per se
+ - Added "whisper" and "promote to master looter" to raid dropdown menus
+ - Chat scrolling with mouse wheel
+ - Option to enable system messages in tabs other than General
+ - If "show status bar text" option is off, health numbers will appear on mouseover rather than never
