@@ -1,5 +1,5 @@
 # TurtleUIFixes
-Collection of user interface bug fixes for Turtle WoW.
+Collection of user interface bug fixes and small UI improvements for Turtle WoW.
 
 ## Included Fixes
 ### Tooltips
@@ -29,7 +29,9 @@ Collection of user interface bug fixes for Turtle WoW.
 ### Lookinf For Group Tool
  - Constant scrolling to the top (![bug report](https://turtle-wow.org/bug-report?id=10553))
 
-## Small improvements that are not bug fixes per se
+
+
+## Other things that are not bug fixes per se
  - Added "whisper" and "promote to master looter" to raid dropdown menus
  - Chat scrolling with mouse wheel
  - Option to enable system messages in tabs other than General
