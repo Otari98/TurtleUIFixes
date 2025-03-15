@@ -17,6 +17,8 @@ Collection of user interface bug fixes and small UI improvements for Turtle WoW.
  - Tabard texture
  - Frame strata and interaction with pushable frames
  - Experimental fix/workaround for slots showing blank pages ![bug report](https://turtle-wow.org/bug-report?id=9414) (need feedback on this)
+### Donation Shop UI
+ - Fashion dropdown showing incorrect category
 ### Chat
  - Hardcore chat reenabling itself
  - Not selecting general tab on login/reload
@@ -31,12 +33,13 @@ Collection of user interface bug fixes and small UI improvements for Turtle WoW.
 ### World Map
  - Eastern Kingdoms not having check mark in dropdown menu
 
-
 ## Other things that are not bug fixes per se
  - Added "whisper" and "promote to master looter" to raid dropdown menus
  - Chat scrolling with mouse wheel
  - Option to enable system messages in tabs other than General
  - If "show status bar text" option is off, health numbers will appear on mouseover rather than never
-
+ - Donation shop models now can be rotated via holding right mouse button instead of mousewheel
+ - Purchase confirmation dialog will not be shown if you don't have enough tokens
+ - Fashion preview models will be only equipped with item being sold
 ## Installation
 Place `patch-U` in your game's `Data` folder. If you use Turtle Launcher you will need to enable this patch inside it.
