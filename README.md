@@ -16,7 +16,6 @@ Collection of user interface bug fixes and small UI improvements for Turtle WoW.
 ### Transmog UI
  - Tabard texture
  - Frame strata and interaction with pushable frames
- - Experimental fix/workaround for slots showing blank pages ![bug report](https://turtle-wow.org/bug-report?id=9414) (need feedback on this)
 ### Donation Shop UI
  - Fashion dropdown showing incorrect category
 ### Chat
