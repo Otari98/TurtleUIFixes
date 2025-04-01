@@ -1,3 +1,5 @@
+# YOU NO LONGER NEED THIS PATCH SINCE MOST OF THESE FIXES WERE IMPLEMENTED BY TWOW
+
 # TurtleUIFixes
 Collection of user interface bug fixes and small UI improvements for Turtle WoW.
 
